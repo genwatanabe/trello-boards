@@ -370,7 +370,6 @@
         onLoadTrello(Trello, {
             board_id: '<?php echo trelloBoardId; ?>'
         });
-
     </script>
 </body>
 </html>
